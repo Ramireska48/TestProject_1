@@ -4,6 +4,7 @@ public class HelloWorld {
         //sout
         System.out.println("Hello world");
         System.out.println("Update!");
+        System.out.println("LOL");
     }
 
 }
